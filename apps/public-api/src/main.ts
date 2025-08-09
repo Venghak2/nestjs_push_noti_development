@@ -39,6 +39,6 @@ async function bootstrap() {
 
   app.setGlobalPrefix('user')
 
-  await app.listen(7000);
+  await app.listen(7000, '0.0.0.0');
 }
 bootstrap();
