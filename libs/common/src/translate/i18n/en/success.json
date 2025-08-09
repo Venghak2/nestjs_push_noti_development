@@ -1,0 +1,14 @@
+{
+    "CREATED-SUCCESS": "Created {property} successfully",
+    "UPDATED-SUCCESS": "Updated {property} successfully",
+    "DELETED-SUCCESS": "Deleted {property} successfully",
+    "SUCCESS": "{property} is successfully.",
+    "PUSH-ALL-SUCCESS": "The push notification has been successfully sent to every subscriber",
+    "ALREADY-SUBSCRIBED": "This user {data} already subscribed.",
+    "UNSUBSCRIBE-SUCCESS": "User {data} unsubscribed successfully.",
+    "USER-REGISTERED-SUCCESS": "The user has successfully registered",
+    "PASSWORD-UPDATED-SUCCESS": "The password was successfully updated",
+    "PASSWORD-RESET-SUCCESS": "The password was successfully reset",
+    "IMAGE-UPLOAD-SUCCESS": "The user has successfully uploaded an image"
+
+}

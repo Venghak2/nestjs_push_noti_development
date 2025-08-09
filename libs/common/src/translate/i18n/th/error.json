@@ -1,0 +1,16 @@
+{
+    "ERROR-OCCURRED": "เกิดข้อผิดพลาดขณะ {action}",
+    "LOGIN-FAILED": "การเข้าสู่ระบบไม่ถูกต้อง!",
+    "DATABASE-ERROR": "เกิดข้อผิดพลาดในฐานข้อมูล",
+    "ID-NOT-FOUND": "{property} ที่มีไอดี {id} ไม่พบหรือไอดีนี้ไม่ได้ใช้งาน",
+    "PASSWORD-MISMATCH": "การยืนยันรหัสผ่านไม่ตรงกัน!",
+    "REGISTER-EXIST": "{property} {data} ได้ถูกลงทะเบียนแล้ว!",
+    "NOT-FOUND": "{property} {data} ไม่พบ!",
+    "NOT-DATA-SUBSCRIBED": "ไม่มีข้อมูลการสมัครใช้งาน!",
+    "INVALID": {
+        "TOKEN": "โทเคนไม่ถูกต้อง"
+    },
+    "action": {
+        "EXIST-TOKEN": "ตรวจสอบโทเค็นที่มีอยู่"
+    }
+}

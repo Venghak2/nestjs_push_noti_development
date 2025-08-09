@@ -1,0 +1,6 @@
+export enum ServicesEnum {
+     SEND = 'SEND',
+     SEND_MESSAGE = 'SEND_MESSAGE',
+     PUBLIC_SERVICE = 'PUBLIC_SERVICE',
+     WORKER_SERVICE = 'WORKER_SERVICE'
+}

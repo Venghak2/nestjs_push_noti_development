@@ -1,0 +1,16 @@
+{
+    "ERROR-OCCURRED": "Error occurred while {action}!",
+    "LOGIN-FAILED": "The login is not correct!",
+    "DATABASE-ERROR": "Error occurred in database!",
+    "ID-NOT-FOUND": "{property} with ID {id} not found!",
+    "PASSWORD-MISMATCH": "The password confirm does not match!",
+    "REGISTER-EXIST": "{property} {data} is already registered!",
+    "NOT-FOUND": "{property} {data} not found!",
+    "NOT-DATA-SUBSCRIBED": "No data subscribed!",
+    "INVALID": {
+        "TOKEN": "Token is invalid!"
+    },
+    "action": {
+        "EXIST-TOKEN": "Checking exist token"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "CREATED-SUCCESS": "สร้าง{property}สำเร็จแล้ว",
+    "UPDATED-SUCCESS": "อัปเดต{property}เรียบร้อยแล้ว",
+    "DELETED-SUCCESS": "ลบ{property}เรียบร้อยแล้ว",
+    "SUCCESS": "{property}สำเร็จแล้ว",
+    "PUSH-ALL-SUCCESS": "ส่งการแจ้งเตือนแบบพุชถึงผู้ติดตามทั้งหมดเรียบร้อยแล้ว",
+    "ALREADY-SUBSCRIBED": "ผู้ใช้ {data} สมัครรับข้อมูลแล้ว",
+    "UNSUBSCRIBE-SUCCESS": "ผู้ใช้ {data} ยกเลิกรับการแจ้งเตือนเรียบร้อยแล้ว",
+    "USER-REGISTERED-SUCCESS": "ผู้ใช้งานลงทะเบียนเรียบร้อยแล้ว",
+    "PASSWORD-UPDATED-SUCCESS": "อัปเดตรหัสผ่านเรียบร้อยแล้ว",
+    "PASSWORD-RESET-SUCCESS": "รีเซ็ตรหัสผ่านเรียบร้อยแล้ว",
+    "IMAGE-UPLOAD-SUCCESS": "ผู้ใช้งานอัปโหลดรูปภาพเรียบร้อยแล้ว"
+
+}
